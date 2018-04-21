@@ -801,3 +801,11 @@ button:focus,
     .areas-2{
       float: center;
     }
+#meetup-imgs{
+    float: left;
+    clear: both;
+    margin-right: 25px;
+}
+.arrange{
+    margin-top: 450px;
+}
