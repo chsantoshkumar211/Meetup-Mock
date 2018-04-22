@@ -808,4 +808,10 @@ button:focus,
 }
 .arrange{
     margin-top: 450px;
+    font-size: 1.20em;
+    text-align: left;
+}
+#top-arrange{
+    font-size: 1.20em;
+    text-align: left;
 }
