@@ -815,3 +815,44 @@ button:focus,
     font-size: 1.20em;
     text-align: left;
 }
+
+#imgkoch {
+    width:300px;
+    height:300px;
+    
+    margin-left:20px;
+    border-radius:60%;
+}
+#imgamp {
+    width:300px;
+    height:300px;
+    border-radius:60%;
+    margin-left:20px;
+    margin-top:50px;
+    
+    
+}
+
+
+#koc {
+    margin-top:200px;
+    margin-left:65px;
+
+}
+#amr {
+    margin-top:10px;
+    margin-left:40px;
+
+}
+
+
+
+#txtkoch {
+
+    margin-left:70px;
+    margin-bottom:100px;
+}
+#desckoch {
+ font-size:25px;
+ 
+}
