@@ -807,13 +807,26 @@ button:focus,
     margin-right: 25px;
 }
 .arrange{
-    margin-top: 450px;
+    margin-top: 150px;
     font-size: 1.20em;
     text-align: left;
 }
 #top-arrange{
     font-size: 1.20em;
     text-align: left;
+}
+#the-meet{
+    text-align: center;
+
+}
+#group{
+    margin-left: 22%;
+}
+.inner_arrange{
+    margin-left: 525px;
+}
+#top_align{
+    margin-left: 525px;
 }
 
 #imgkoch {
